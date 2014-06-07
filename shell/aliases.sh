@@ -8,4 +8,6 @@ alias "v=pbpaste"
 alias "h=history | grep "
 
 # https://github.com/wouterdebie/i2cssh
+# gem install i2cssh
+
 alias 'cssh'='i2cssh -b '
